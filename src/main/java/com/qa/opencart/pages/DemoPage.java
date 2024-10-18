@@ -6,7 +6,7 @@ public class DemoPage {
 
 	int i = 10;
 	
-	By loc = By.id("demo");
+	By loc = By.id("...demo");
 	
 	public void getPage() {
 		System.out.println("click on demo");
